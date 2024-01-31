@@ -1,4 +1,4 @@
-# External resources
+### External references
 
 - [Awesome macos](https://github.com/phmullins/awesome-macos)
 
@@ -105,7 +105,7 @@ favorites and something that I recommend you check out.
 - [JExplorer](http://jxplorer.org), ![Dollar][mon]
 
 ### License
-Source is released under the MIT License (MIT) [license](LICENCE).
+Source is released under the MIT License (MIT) [license](LICENSE).
 
 [oss]: /assets/oss.png
 [mon]: /assets/dollar.png
