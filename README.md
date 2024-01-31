@@ -7,6 +7,25 @@ apps = ![Dollar][mon]. Free apps have a ![Free][free] icon. Any app with a yello
 favorites and something that I recommend you check out.
 
 - [Windows Managers](#windows-managers)
+- [Password Managers](#password-managers)
+- [Screenshots and photo editors](#screenshots-and-photo-editors)
+- [Browsers proxy](browsers-proxy)
+- [API requests](api-requests)
+- [Mindmaps](#mindmaps)
+- [Firewalls](#firewalls)
+- [Database Managers](#database-managers)
+- [Remote Access](#remote-access)
+- [Video Grabbers, Transcoders](video-grabbers-and-transcoders)
+- [Markdown Editors](#markdown-editors)
+- [File Comparison Tools](#file-comparison-tools)
+- [Disk Utilities](#disk-utilities)
+- [VPNs](#vpns)
+- [Directories](#directories)
+- [File Utilities](#file-utilities)
+- [File Duplication Tools](#file-duplication-tools)
+- [Productivity](#productivity)
+- [Clipboard Managers](#clipboard-managers)
+- [Networks Tools](#networks-tools)
 
 ### Windows Managers
 
@@ -49,11 +68,11 @@ favorites and something that I recommend you check out.
 - [NoSQL Booster for MongoDB](https://www.nosqlbooster.com), ![Free][free]
 - [SQL Pro Studio](https://www.sqlprostudio.com), ![Dollar][mon]
 
-### Remote Access (FTP, Dropbox, Box, etc)
+### Remote Access
 
 - [Transmit](https://www.panic.com/transmit/), ![Dollar][mon]
 
-### Video Grabbers, Transcoders
+### Video Grabbers and Transcoders
 
 - [ClipGrab](https://clipgrab.org), ![Free][free]
 - [4K Video Downloader+](https://www.4kdownload.com), ![Dollar][mon]
