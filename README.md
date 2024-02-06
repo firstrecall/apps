@@ -6,6 +6,10 @@ Legend: Open Source apps = ![Open Source][oss]. Paid
 apps = ![Dollar][mon]. Free apps have a ![Free][free] icon. Any app with a yellow star (![Star][fav]) is one of my 
 favorites and something that I recommend you check out.
 
+[toc]
+
+
+
 - [Windows Managers](#windows-managers)
 - [Password Managers](#password-managers)
 - [Screenshots and photo editors](#screenshots-and-photo-editors)
@@ -85,7 +89,7 @@ favorites and something that I recommend you check out.
 
 ### File Comparison Tools
 
-- (Araxis Merge](https://www.araxis.com), ![Dollar][mon]
+- [Araxis Merge](https://www.araxis.com), ![Dollar][mon]
 
 ### Disk Utilities
 
