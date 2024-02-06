@@ -33,7 +33,7 @@ favorites and something that I recommend you check out.
 
 ### Windows Managers
 
-- [Rectangleapp](https://rectangleapp.com), ![Free][free]
+- [Rectangleapp](https://rectangleapp.com), ![Open Source][oss] ![Star][fav]
 - [Divvy](https://mizage.com/divvy/), ![Dollar][mon]
 
 ### Password Managers
