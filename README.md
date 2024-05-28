@@ -6,10 +6,7 @@ Legend: Open Source apps = ![Open Source][oss]. Paid
 apps = ![Dollar][mon]. Free apps have a ![Free][free] icon. Any app with a yellow star (![Star][fav]) is one of my 
 favorites and something that I recommend you check out.
 
-[toc]
-
-
-
+- [AI](#ai)
 - [Windows Managers](#windows-managers)
 - [Password Managers](#password-managers)
 - [Screenshots and photo editors](#screenshots-and-photo-editors)
@@ -30,6 +27,22 @@ favorites and something that I recommend you check out.
 - [Productivity](#productivity)
 - [Clipboard Managers](#clipboard-managers)
 - [Networks Tools](#networks-tools)
+
+### AI
+- [remove.bg](https://www.remove.bg/) ![Free][free] 
+- [Remove Background](https://huggingface.co/spaces/Xenova/remove-background-web) ![Free][free] 
+- [Deep translate](https://www.deepl.com/translator) ![Free][free] 
+
+### Development tools
+
+- [Development video recording](https://jam.dev/) ![Free][free] 
+- [Loom video recordings](https://loom.com) ![Free][free] 
+- [Around, conference room](https://www.around.co/) ![Free][free] 
+- [Annotate your call, meeting notes](https://grain.com/) ![Free][free] 
+- [Date Duration](https://www.timeanddate.com/date/duration.html) ![Free][free] 
+- [Time To Decimal Calculator](https://www.calculatorsoup.com/calculators/time/time-to-decimal-calculator.php) ![Free][free] 
+- [Retrospectives](https://reetro-io.herokuapp.com/) ![Free][free] 
+- [Poker estimation](https://planitpoker.com/) ![Free][free] 
 
 ### Windows Managers
 
